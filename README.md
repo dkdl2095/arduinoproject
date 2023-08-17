@@ -1,4 +1,4 @@
-아두이노 프로젝트 멜로디 재생기
+<h2>아두이노 프로젝트 멜로디 재생기</h2>
 <img alt="ArduinoProjectImg" src="https://github.com/dkdl2095/arduinoproject/assets/71371208/b7b61507-40e4-4cfc-aafb-8d403bde5443"/>
 <p>① LCD 디스플레이 16x2 IIC: GND 52번 아래 GND 연결, 5V 22번 위에 5V 연결, SDA 20번 연결, SCL 21번 연결<br>
 ② 부저: +를 8번 연결, -를 그림 기준 하단부 GND 연결<br>
